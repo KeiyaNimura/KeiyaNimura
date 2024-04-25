@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeiyaNimura)](https://github.com/ryo-ma/github-profile-trophy)
-![IMG_9694](https://github.com/KeiyaNimura/KeiyaNimura/assets/107525125/3f73f174-7d3a-40a8-b6ab-2cc224c2b5fa)
+![IMG_9694-2](https://github.com/KeiyaNimura/KeiyaNimura/assets/107525125/14e25898-05af-4918-b9c1-be8df9a02d74)
+
 
 

@@ -1,4 +1,4 @@
-### I am a Pro-Gamer
+### Thank you for coming🐳
 
 <!--
 **KeiyaNimura/KeiyaNimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeiyaNimura)](https://github.com/ryo-ma/github-profile-trophy)
-![IMG_9694-2 2](https://github.com/KeiyaNimura/KeiyaNimura/assets/107525125/62c41c01-8b56-4ad4-a215-f848807d3f98)
 
 
 

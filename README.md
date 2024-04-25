@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeiyaNimura)](https://github.com/ryo-ma/github-profile-trophy)
 
+![spotlight](https://github.com/KeiyaNimura/KeiyaNimura/assets/107525125/d3775504-807d-4750-80da-8898c2afb14b)

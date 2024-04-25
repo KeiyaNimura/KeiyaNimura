@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=96knoha&layout=compact&count_private=true&show_icons=true&theme=algolia" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=96knoha&count_private=true&show_icons=true&show_icons=true&theme=algolia" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiyaNimura&layout=compact&count_private=true&show_icons=true&theme=algolia" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KeiyaNimuraa&count_private=true&show_icons=true&show_icons=true&theme=algolia" />
 </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeiyaNimura)](https://github.com/ryo-ma/github-profile-trophy)
 ![IMG_9694](https://github.com/KeiyaNimura/KeiyaNimura/assets/107525125/3f73f174-7d3a-40a8-b6ab-2cc224c2b5fa)

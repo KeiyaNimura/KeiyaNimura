@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeiyaNimura)](https://github.com/ryo-ma/github-profile-trophy)
+![IMG_9694](https://github.com/KeiyaNimura/KeiyaNimura/assets/107525125/3f73f174-7d3a-40a8-b6ab-2cc224c2b5fa)
 
 
